@@ -24,4 +24,7 @@ food2.png - їжа,
 food3.png - їжа,                   
 line.png - бар'єр, 
 linee.png - персонаж коза
+
+
 ![меню](https://github.com/yanalevchenko/labirinth/blob/main/Screenshot%202023-04-21%20171239.png)
+![сама гра](https://github.com/yanalevchenko/labirinth/blob/main/Screenshot%202023-04-21%20171250.png)
