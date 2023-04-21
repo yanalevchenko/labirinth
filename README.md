@@ -24,3 +24,4 @@ food2.png - їжа,
 food3.png - їжа,                   
 line.png - бар'єр, 
 linee.png - персонаж коза
+ ![logo](file:///C:/Users/Yol/Pictures/Screenshots/Screenshot%202023-04-21%20171239.png)
